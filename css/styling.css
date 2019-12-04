@@ -1,13 +1,22 @@
 header {
-    background-color: aquamarine
+    background-color: steelblue
 }
 
 footer {
-    background-color: blueviolet
+    background-color: gray
 }
 
 .esskeetit {
-    background-color: darksalmon
+    background-color: crimson
+}
+.esskeetit1 {
+    background-color: crimson
+}
+.esskeetit2 {
+    background-color: crimson
+}
+.esskeetit3 {
+    background-color: blueviolet;
 }
 
 main {}
